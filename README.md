@@ -30,9 +30,11 @@
 ### 行内代码的表示
 
 `public static`
+`public static`
+` haha `
 
 ### 行间代码的表示,符号后面要有空格
 
-``` public void main(){
+``` public void main(){ ```
 ``` String name=0; ```
 ``` } ```
