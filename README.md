@@ -33,5 +33,4 @@
 
 ### 行间代码的表示
 
-```public void main(){
-}```
+``` public void main(){} ```
