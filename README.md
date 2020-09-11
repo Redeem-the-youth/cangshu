@@ -31,6 +31,7 @@
 
 `public`
 
-### 行间代码的表示
+### 行间代码的表示,符号后面要有空格
 
-``` public void main(){} ```
+``` public void main(){
+} ```
